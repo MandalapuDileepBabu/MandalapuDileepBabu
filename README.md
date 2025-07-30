@@ -3,13 +3,13 @@
 🔭 I’m currently learning **Full Stack Development** and **Cybersecurity**  
 🌱 I enjoy building secure and scalable web apps  
 💬 Ask me about HTML, CSS, JavaScript, Python, or security basics  
-📫 How to reach me: [Your Email or LinkedIn]  
+📫 How to reach me: [mandalapudileep5@gmail.com]  
 ⚡ Fun fact: I love solving problems and learning new tools every day!
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: JavaScript, Python, C
+- 💻 Languages: JavaScript, Python, C,java
 - 🌐 Frontend: HTML, CSS, React
 - 🔧 Backend: Node.js, Express
 - 🛢️ Databases: MongoDB, MySQL
