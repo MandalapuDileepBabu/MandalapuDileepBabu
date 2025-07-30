@@ -1,3 +1,5 @@
+<img width="800" height="400" alt="DILEEP BABU MANDALAPU" src="https://github.com/user-attachments/assets/8ec14dea-b320-4c94-83b5-eef78237a04b" />
+
 ### Hi there 👋 I'm Dileep!
 
 🔭 I’m currently learning **Full Stack Development** and **Cybersecurity**  
